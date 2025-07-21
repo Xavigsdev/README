@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on weather apps, web design and more!<br>🌱 I’m currently learning javascript and PHP<br>💬 Ask me about Java and HTML<br>⚡ Fun fact: !False, it's funny because it's true
+👯 I’m looking to collaborate on all kind of apps, web design and more!<br>🌱 I’m currently learning javascript and PHP<br>💬 Ask me about Java and HTML<br>⚡ Fun fact: !False, it's funny because it's true
 
 
 ## 🌐 Socials:
