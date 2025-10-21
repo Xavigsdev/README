@@ -62,7 +62,7 @@
 
 ###
 
-<h3 align="center">📧xavi.2501@gmail.com</h3>
+<h3 align="left">📧xavi.2501@gmail.com</h3>
 
 ###
 
